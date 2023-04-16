@@ -1,0 +1,156 @@
+{
+  "cocktails": [
+    {
+      "id": "1",
+      "name": "Mojito",
+      "ingredients": ["White Rum", "Sugar", "Lime", "Mint", "Soda Water"],
+      "recipe": "Muddle mint and sugar. Add lime juice and rum, fill with crushed ice. Stir, top up with soda water, and garnish with a mint sprig."
+    },
+    {
+      "id": "2",
+      "name": "Martini",
+      "ingredients": ["Gin", "Dry Vermouth"],
+      "recipe": "Stir gin and vermouth with ice, strain into a chilled martini glass, and garnish with an olive or lemon twist."
+    },
+    {
+      "id": "3",
+      "name": "Margarita",
+      "ingredients": ["Tequila", "Triple Sec", "Lime Juice", "Salt"],
+      "recipe": "Shake tequila, triple sec, and lime juice with ice. Strain into a salt-rimmed glass filled with ice, and garnish with a lime wedge."
+    },
+    {
+      "id": "4",
+      "name": "Old Fashioned",
+      "ingredients": ["Bourbon", "Angostura Bitters", "Sugar", "Water", "Orange Peel"],
+      "recipe": "Muddle sugar, bitters, and water. Add bourbon and stir. Pour over a large ice cube in a rocks glass, and garnish with an orange peel."
+    },
+    {
+      "id": "5",
+      "name": "Daiquiri",
+      "ingredients": ["White Rum", "Lime Juice", "Simple Syrup"],
+      "recipe": "Shake rum, lime juice, and simple syrup with ice. Strain into a chilled coupe glass, and garnish with a lime wheel."
+    },
+    {
+      "id": "6",
+      "name": "Whiskey Sour",
+      "ingredients": ["Whiskey", "Lemon Juice", "Simple Syrup", "Egg White (optional)"],
+      "recipe": "Shake whiskey, lemon juice, simple syrup, and egg white (if using) with ice. Strain into a rocks glass filled with ice, and garnish with a cherry and lemon twist."
+    },
+    {
+      "id": "7",
+      "name": "Negroni",
+      "ingredients": ["Gin", "Campari", "Sweet Vermouth"],
+      "recipe": "Stir gin, Campari, and sweet vermouth with ice. Strain into a rocks glass filled with ice, and garnish with an orange twist."
+    },
+    {
+      "id": "8",
+      "name": "Manhattan",
+      "ingredients": ["Bourbon", "Sweet Vermouth", "Angostura Bitters"],
+      "recipe": "Stir bourbon, sweet vermouth, and bitters with ice. Strain into a chilled coupe glass, and garnish with a cherry."
+    },
+    {
+      "id": "9",
+      "name": "Long Island Iced Tea",
+      "ingredients": ["Vodka", "Tequila", "Rum", "Gin", "Triple Sec", "Lemon Juice", "Simple Syrup", "Cola"],
+      "recipe": "Shake all ingredients (except cola) with ice. Strain into a highball glass filled with ice, top with cola, and garnish with a lemon wedge."
+    },
+    {
+      "id": "10",
+      "name": "Cosmopolitan",
+      "ingredients": ["Vodka", "Triple Sec", "Cranberry Juice", "Lime Juice"],
+      "recipe": "Shake vodka, triple sec, cranberry juice, and lime juice with ice. Strain into a chilled martini glass, and garnish with a lime wheel."
+    },
+    {
+      "id": "11",
+      "name": "Pina Colada",
+      "ingredients": ["White Rum", "Pineapple Juice", "Coconut Cream"],
+      "recipe": "Blend rum, pineapple juice, and coconut cream with ice. Pour into a hurricane glass, and garnish with a pineapple wedge and a cherry."
+    },
+    {
+      "id": "12",
+      "name": "Mai Tai",
+      "ingredients": ["White Rum", "Dark Rum", "Triple Sec", "Orgeat Syrup", "Lime Juice"],
+      "recipe": "Shake all ingredients (except dark rum) with ice. Strain into a glass filled with crushed ice, float dark rum on top, and garnish with a pineapple wedge and a sprig of mint."
+    },
+    {
+      "id": "13",
+      "name": "Tom Collins",
+      "ingredients": ["Gin", "Lemon Juice", "Simple Syrup", "Soda Water"],
+      "recipe": "Shake gin, lemon juice, and simple syrup with ice. Strain into a Collins glass filled with ice, top with soda water, and garnish with a lemon wheel and a cherry."
+    },
+    {
+      "id": "14",
+      "name": "Bloody Mary",
+      "ingredients": ["Vodka", "Tomato Juice", "Lemon Juice", "Worcestershire Sauce", "Tabasco Sauce", "Salt", "Pepper", "Celery"],
+      "recipe": "Shake vodka, tomato juice, lemon juice, Worcestershire sauce, Tabasco, salt, and pepper with ice. Strain into a tall glass filled with ice, and garnish with a celery stalk and a lemon wedge."
+    },
+    {
+      "id": "15",
+      "name": "Mint Julep",
+      "ingredients": ["Bourbon", "Mint Leaves", "Sugar", "Water"],
+      "recipe": "Muddle mint leaves, sugar, and water in a glass. Add crushed ice and bourbon, stir well, and garnish with a sprig of mint."
+    },
+    {
+      "id": "16",
+      "name": "Gimlet",
+      "ingredients": ["Gin", "Lime Juice", "Simple Syrup"],
+      "recipe": "Shake gin, lime juice, and simple syrup with ice. Strain into a chilled coupe glass, and garnish with a lime wheel."
+    },
+    {
+      "id": "17",
+      "name": "Screwdriver",
+      "ingredients": ["Vodka", "Orange Juice"],
+      "recipe": "Pour vodka and orange juice into a highball glass filled with ice. Stir well, and garnish with an orange wheel."
+    },
+    {
+      "id": "18",
+      "name": "Tequila Sunrise",
+      "ingredients": ["Tequila", "Orange Juice", "Grenadine"],
+      "recipe": "Pour tequila and orange juice into a highball glass filled with ice. Stir well, and slowly pour grenadine over the back of a spoon to create a sunrise effect. Garnish with an orange wheel and a cherry."
+    },
+    {
+      "id": "19",
+      "name": "White Russian",
+      "ingredients": ["Vodka", "Coffee Liqueur", "Cream"],
+      "recipe": "Pour vodka and coffee liqueur into a rocks glass filled with ice. Float cream on top by slowly pouring it over the back of a spoon. Stir before drinking."
+    },
+    {
+      "id": "20",
+      "name": "Bramble",
+      "ingredients": ["Gin", "Lemon Juice", "Simple Syrup", "Crème de Mûre"],
+      "recipe": "Shake gin, lemon juice, and simple syrup with ice. Strain into a rocks glass filled with crushed ice, drizzle crème de mûre over the top, and garnish with a blackberry and a lemon wheel."
+    },
+    {
+      "id": "21",
+      "name": "Moscow Mule",
+      "ingredients": ["Vodka", "Lime Juice", "Ginger Beer"],
+      "recipe": "Pour vodka and lime juice into a copper mug filled with ice. Top with ginger beer, stir gently, and garnish with a lime wheel."
+    },
+    {
+      "id": "22",
+      "name": "Aperol Spritz",
+      "ingredients": ["Prosecco", "Aperol", "Soda Water"],
+      "recipe": "Pour Prosecco, Aperol, and soda water into a wine glass filled with ice. Stir gently, and garnish with an orange wheel."
+    },
+    {
+      "id": "23",
+      "name": "Sidecar",
+      "ingredients": ["Cognac", "Triple Sec", "Lemon Juice"],
+      "recipe": "Shake cognac, triple sec, and lemon juice with ice. Strain into a sugar-rimmed coupe glass, and garnish with a lemon twist."
+    },
+    {
+      "id": "24",
+      "name": "Caipirinha",
+      "ingredients": ["Cachaça", "Lime", "Sugar"],
+      "recipe": "Muddle lime wedges and sugar in a rocks glass. Fill with crushed ice, add cachaça, and stir well. Garnish with a lime wedge."
+    },
+    {
+      "id": "25",
+      "name": "Espresso Martini",
+      "ingredients": ["Vodka", "Coffee Liqueur", "Espresso"],
+      "recipe": "Shake vodka, coffee liqueur, and espresso with ice. Strain into a chilled martini glass, and garnish with coffee beans."
+    }
+  ]
+}
+
+
